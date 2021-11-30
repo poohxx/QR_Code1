@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR_Code</string>
+    <string name="Generate">Generate</string>
+    <string name="Scan">Scan</string>
+</resources>
